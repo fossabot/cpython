@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fcpython.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fcpython?ref=badge_shield)
+
 This is Python version 3.15.0 alpha 0
 =====================================
 
@@ -233,3 +235,6 @@ so it may be used in proprietary projects.  There are interfaces to some GNU
 code but these are entirely optional.
 
 All trademarks referenced herein are property of their respective holders.
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fcpython.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fcpython?ref=badge_large)
